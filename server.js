@@ -8,4 +8,4 @@ const server = net.createServer(socket => {
     });
 });
 
-server.listen(80);
+server.listen(3000);
