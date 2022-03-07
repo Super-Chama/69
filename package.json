@@ -1,0 +1,19 @@
+{
+  "name": "gottapp",
+  "version": "1.0.0",
+  "description": "Voice of 69 lakhs",
+  "main": "server.js",
+  "scripts": {
+  "start": "node server.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "Chamara Abesinghe",
+  "license": "MIT",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}
